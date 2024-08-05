@@ -1,0 +1,184 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-17.webp",
+      "name": "Angelique Morse",
+      "phone": "+46 8 123 456",
+      "company": "Wuckert Inc",
+      "role": "Content Creator",
+      "status": "Banned"
+    },
+    {
+      "id": 2,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-2.webp",
+      "name": "Ariana Lang",
+      "phone": "+54 11 1234-5678",
+      "company": "Feest Group",
+      "role": "IT Administrator",
+      "status": "Pending"
+    },
+    {
+      "id": 3,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-3.webp",
+      "name": "Aspen Schmitt",
+      "phone": "+34 91 123 4567",
+      "company": "Kihn, Marquardt and Crist",
+      "role": "Financial Planner",
+      "status": "Banned"
+    },
+    {
+      "id": 4,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-4.webp",
+      "name": "Brycen Jimenez",
+      "phone": "+52 55 1234 5678",
+      "company": "Rempel, Hand and Herzog",
+      "role": "HR Recruiter",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-5.webp",
+      "name": "Caiden Mills",
+      "phone": "+49 30 123 456",
+      "company": "Runolfsson and Sons",
+      "role": "Software Engineer",
+      "status": "Pending"
+    },
+    {
+      "id": 6,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-6.webp",
+      "name": "Danna Smith",
+      "phone": "+1 202 555 0198",
+      "company": "Lehner, Barrows and O'Kon",
+      "role": "Marketing Specialist",
+      "status": "Active"
+    },
+    {
+      "id": 7,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-7.webp",
+      "name": "Elias Brown",
+      "phone": "+1 202 555 0185",
+      "company": "Nader LLC",
+      "role": "Project Manager",
+      "status": "Rejected"
+    },
+    {
+      "id": 8,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-8.webp",
+      "name": "Finley Wilson",
+      "phone": "+61 2 1234 5678",
+      "company": "Lindgren Inc",
+      "role": "Product Designer",
+      "status": "Banned"
+    },
+    {
+      "id": 9,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-9.webp",
+      "name": "Gracelyn Martinez",
+      "phone": "+33 1 23 45 67 89",
+      "company": "Steuber Group",
+      "role": "Data Scientist",
+      "status": "Pending"
+    },
+    {
+      "id": 10,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-10.webp",
+      "name": "Hayden Lee",
+      "phone": "+44 20 7946 0958",
+      "company": "Witting LLC",
+      "role": "Business Analyst",
+      "status": "Active"
+    },
+    {
+      "id": 11,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-11.webp",
+      "name": "Isabella Harris",
+      "phone": "+81 3-1234-5678",
+      "company": "Dooley and Sons",
+      "role": "Content Strategist",
+      "status": "Rejected"
+    },
+    {
+      "id": 12,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-12.webp",
+      "name": "Jackson Clark",
+      "phone": "+65 6123 4567",
+      "company": "Brown, Walker and Hand",
+      "role": "System Administrator",
+      "status": "Active"
+    },
+    {
+      "id": 13,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-13.webp",
+      "name": "Kai Robinson",
+      "phone": "+852 1234 5678",
+      "company": "Nolan, Douglas and Becker",
+      "role": "UX Designer",
+      "status": "Pending"
+    },
+    {
+      "id": 14,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-14.webp",
+      "name": "Lily Martinez",
+      "phone": "+971 4 123 4567",
+      "company": "Leffler Group",
+      "role": "Sales Manager",
+      "status": "Banned"
+    },
+    {
+      "id": 15,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-15.webp",
+      "name": "Mason Thomas",
+      "phone": "+82 2-1234-5678",
+      "company": "Romaguera, Abbott and Bogisich",
+      "role": "Financial Analyst",
+      "status": "Active"
+    },
+    {
+      "id": 16,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-16.webp",
+      "name": "Nolan Anderson",
+      "phone": "+7 495 123-45-67",
+      "company": "Renner Group",
+      "role": "Operations Manager",
+      "status": "Pending"
+    },
+    {
+      "id": 17,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-18.webp",
+      "name": "Olivia Johnson",
+      "phone": "+972 2 123 4567",
+      "company": "Grimes, Halvorson and Little",
+      "role": "HR Manager",
+      "status": "Banned"
+    },
+    {
+      "id": 18,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-19.webp",
+      "name": "Paisley Scott",
+      "phone": "+1 415 555 0132",
+      "company": "McGlynn, Bartoletti and McDermott",
+      "role": "Account Executive",
+      "status": "Active"
+    },
+    {
+      "id": 19,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-20.webp",
+      "name": "Quinn Rivera",
+      "phone": "+48 22 123 4567",
+      "company": "Swaniawski and Sons",
+      "role": "Content Editor",
+      "status": "Rejected"
+    },
+    {
+      "id": 20,
+      "avatar": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/mock/assets/images/avatar/avatar-1.webp",
+      "name": "Riley Martinez",
+      "phone": "+1 917 555 0199",
+      "company": "Langworth Group",
+      "role": "SEO Specialist",
+      "status": "Active"
+    }
+  ]
+}
